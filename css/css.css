@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+nav h1{
+    font-size: 20px;
+   
+}
+nav .page{
+    margin-top: 5px;
+    margin-left: 300px;
+   
+}
+.page a{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+}
+nav{
+    
+    background: rgb(247, 247, 247);
+    padding: 10px;
+}
+
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+ 
+ 
+  }
+  .bottom-left {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    bottom: 7px;
+    left: 15px;
+  }
+  .bottom-left a{
+    text-decoration: none;
+  }
+h3{
+    color: #ff8e18;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.taille{
+    font-size:small;
+    font-family:  'Open Sans', sans-serif;
+    color: white;
+}
+
+
+input[ value="DOWNLOAD NOW!" ] {
+ background: #ff8e18 ;
+ color: white ;
+ padding: 7px;
+ float: right;
+ border-color: #b4b4b433;
+    
+}
+.border{
+    background: black;
+    border: 1px black solid;
+    padding: 7px;
+    width: 1100px;
+    text-align: left;}
+
+.bord{
+   
+    border-bottom: #b4b4b433  solid 1px ;
+    width: fit-content;
+}
+
+.bord1{
+    border-bottom: #b4b4b433  solid 1px ;
+    color: black;
+    margin-bottom: 2px;
+}
+.bord2{
+    border:none solid 1px ;
+    height: 300px ;
+    padding: 20px;
+    background-color: none ;
+}
+
+.flex-container {
+  display: flex;
+  
+}
+#left{
+border: #b4b4b433 solid ;
+height: fit-content;
+width: 800px;
+margin: 4px;
+padding: 10px; 
+
+float: left;
+}
+#right{
+
+border:none solid 1px ;
+height: 900px;
+width: 430px;
+margin: 4px;
+padding: 4px;
+float: right;
+
+}
+
+.none{
+    text-decoration: none;
+    color: black;
+}
+input[ value="VIEW ALL POSTS" ] {
+    background: #ff8e18 ;
+    color: white ;
+    padding: 7px;
+    width: 825px;
+    height: 50px;
+    border-color: #b4b4b433;
+    
+   }
+   .foot1{
+    
+    border-bottom: #b4b4b433  solid 1px ;
+    width: fit-content;
+     padding-bottom: 70px;
+    
+    
+
+   }
+   .foot1 a{
+     text-decoration: none;
+     color: white;
+      margin-left: 10px ;
+      padding:10px;
+
+
+
+   }
+   footer{
+  
+    margin-top: 150px;
+    background-color: black;
+    border: 1px solid black;
+    height: 250px;
+    padding-top: 70px;
+    font-family: 'Open Sans', sans-serif;
+   }
+   .last{
+    padding-top: 50px;
+    color: white;
+    font-size: small;
+   }
+
+   
+
